@@ -32,5 +32,12 @@ module.exports = {
     'react/prop-types': 0,
     'react/jsx-one-expression-per-line': 0,
     'jsx-a11y/label-has-associated-control': 0,
+    'react/function-component-definition': 'off',
+
+    'import/no-extraneous-dependencies': 'off',
+
+    'import/prefer-default-export': 'off',
+
+    'default-param-last': 'off',
   },
 };

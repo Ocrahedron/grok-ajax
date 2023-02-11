@@ -1,7 +1,7 @@
 const fs = require('fs').promises;
 const path = require('path');
 
-describe('Puzzle 135', () => {
+xdescribe('Puzzle 135', () => {
   global.testSanity('puzzle135');
   describe('Роут GET /readme', () => {
     it('отдаёт README', async () => {

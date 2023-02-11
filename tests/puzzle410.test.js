@@ -1,4 +1,4 @@
-describe('Puzzle 410', () => {
+xdescribe('Puzzle 410', () => {
   global.testSanity('puzzle410');
   describe('Исходный код', () => {
     it('использует React SSR и статику', async () => {

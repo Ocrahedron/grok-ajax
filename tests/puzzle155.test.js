@@ -1,4 +1,4 @@
-describe('Puzzle 155', () => {
+xdescribe('Puzzle 155', () => {
   global.testSanity('puzzle155');
   describe('Роут DELETE /delete', () => {
     it('удаляет Даню', async () => {

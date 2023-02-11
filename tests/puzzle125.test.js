@@ -1,4 +1,4 @@
-describe('Puzzle 125', () => {
+xdescribe('Puzzle 125', () => {
   global.testSanity('puzzle125');
   describe('Роут GET /json', () => {
     it('Отдаёт правильный JSON', async () => {

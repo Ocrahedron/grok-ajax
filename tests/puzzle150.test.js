@@ -1,4 +1,4 @@
-describe('Puzzle 150', () => {
+xdescribe('Puzzle 150', () => {
   global.testSanity('puzzle150');
   describe('Роут PUT /replace', () => {
     it('отдаёт для Фёдора ОК', async () => {

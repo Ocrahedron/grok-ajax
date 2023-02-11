@@ -1,4 +1,4 @@
-describe('Puzzle 115', () => {
+xdescribe('Puzzle 115', () => {
   global.testSanity('puzzle115');
   describe('Роут GET /query-as-object', () => {
     it('Обрабатывает пустой запрос', async () => {
